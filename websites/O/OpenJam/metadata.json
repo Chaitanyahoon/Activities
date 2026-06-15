@@ -7,8 +7,8 @@
   },
   "service": "OpenJam",
   "description": {
-    "en": "Listen together in real-time. OpenJam is a synchronized music listening party platform.",
     "de": "Gemeinsam in Echtzeit hören. OpenJam ist eine synchronisierte Musik-Hörparty-Plattform.",
+    "en": "Listen together in real-time. OpenJam is a synchronized music listening party platform.",
     "es": "Escuchen juntos en tiempo real. OpenJam es una plataforma de fiestas de escucha musical sincronizadas.",
     "fr": "Écoutez ensemble en temps réel. OpenJam est une plateforme de soirée d'écoute musicale synchronisée.",
     "pt": "Ouçam juntos em tempo real. OpenJam é uma plataforma de festa de audição musical sincronizada."
@@ -16,9 +16,10 @@
   "url": "openjam.app",
   "regExp": "^https?[:][/][/]([a-z0-9-]+[.])*openjam[.]app[/]",
   "version": "1.0.0",
-  "logo": "https://cdn.rcd.gg/PreMiD/websites/O/OpenJam/assets/logo.png",
-  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/O/OpenJam/assets/thumbnail.png",
+  "logo": "https://files.catbox.moe/oz8aca.png",
+  "thumbnail": "https://files.catbox.moe/oz8aca.png",
   "color": "#6366f1",
+  "category": "music",
   "tags": [
     "music",
     "spotify",
@@ -27,7 +28,6 @@
     "party",
     "synchronized"
   ],
-  "category": "music",
   "settings": [
     {
       "id": "buttons",
